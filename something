@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+    <head>
+        <title>فهد حسام الحلواني</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div class="menu">
+            <ul>
+                <li><a href="#top">الصفحة الرئيسة</a></li>
+                <li><a href="#history">التاريخ</a></li>
+                <li><a href="#gallery">المعرض</a></li>
+                <li><a href="#about">نبذة</a></li>
+                <li><a href="#contact-from.html" target="_blank">اتصل بنا</a></li>      
+            </ul>
+        </div>
+<div class="main">
+    <h1>تعمل كرة القدم على جمع الناس معا</h1>
+    <p>الهدف من حضور الجمهور في هذه اللعبة هو تشجيع اللاعبين أثناء المباراة</p>
+<h2 id="history">التاريخ</h2>
+<p>تعد كرة القدم رياضة ذات تاريخ طويل، نشأت بشكلها الحالي في إنجلترا في منتصف القرن التاسع عشر</br>
+    وجدت أندية كرة القدم منذ القرن الخامس عشر لكنها كانت غير منظمة ودون صفة رسمية، ثم تم إنشاء</br>
+    الكثير من هذه الأندية في أواخر القرن التاسع عشر، ولكن القليل منها فقط استمر بعد ذلك</br>
+    يعتقد معظم المؤرخين أن الأندية التي استمرت بنشاطها كانت تقع في مناطق أكثر ثراء قليلا</br>
+    حيث كان الناس لا يعملون بعد ظهر يوم السبت وكانوا قادرين على تحمل نفقات حضور المباريات
+</p>
+</div>
+<div class="photos">
+    <h1 id="gallery">المعرض</h1>
+    <img src="C:\Users\PC\Pictures\sabq_2022-11_1b6d59a7-1eb9-4be6-9e2d-92cbc071c458_EeHlpvbX0AEuJIR.jpg" width="600" height="400">
+    <img src="C:\Users\PC\Pictures\sabq_import_uploads_material-file_613ceb49f1e326e7da8b458b_613ceb42081b1.jpg" width="600" height="400"><br>
+    <img src="C:\Users\PC\Pictures\rhett-lewis-W-6grboBEIY-unsplash.jpg" width="600" height="400"> 
+    <img src="C:\Users\PC\Pictures\5QL74QSD5FNETM7HNMTWBB6JME.jpg" width="600" height="400">
+</div>
+<div class="footer">
+    <h2 id="about">نبذة</h2>
+
+    <p>من خلال هذه الصفحة يمكننا تبادل الأفكار والآراء</br>
+    حول فريق كرة القدم الذي نشجعه أو حول كرة القدم بشكل عام في وقتنا الحالي</br>
+    يمكننا أيضا التواصل من خلال النموذج لإضافة المزيد من الصور أو المقالات إلى المعرض
+</p>
+<h2>معلومات مفيدة</h2>
+<ul>
+    <li><a href="milto:info@example.com">info@example.com</a></li>
+    <li><a href="https://www.fifa.com/" target="_blank">Fifa.com</a></li>
+    <li><a href="https://www.uefa.com" target="_blank">UEFA.com</a></li>
+</ul>
+</div>
+    </body>
+</html><!DOCTYPE html>
+<html dir="rtl" lang="ar">
+    <head>
+        <title>فهد حسام الحلواني</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div class="menu">
+            <ul>
+                <li><a href="#top">الصفحة الرئيسة</a></li>
+                <li><a href="#history">التاريخ</a></li>
+                <li><a href="#gallery">المعرض</a></li>
+                <li><a href="#about">نبذة</a></li>
+                <li><a href="#contact-from.html" target="_blank">اتصل بنا</a></li>      
+            </ul>
+        </div>
+<div class="main">
+    <h1>تعمل كرة القدم على جمع الناس معا</h1>
+    <p>الهدف من حضور الجمهور في هذه اللعبة هو تشجيع اللاعبين أثناء المباراة</p>
+<h2 id="history">التاريخ</h2>
+<p>تعد كرة القدم رياضة ذات تاريخ طويل، نشأت بشكلها الحالي في إنجلترا في منتصف القرن التاسع عشر</br>
+    وجدت أندية كرة القدم منذ القرن الخامس عشر لكنها كانت غير منظمة ودون صفة رسمية، ثم تم إنشاء</br>
+    الكثير من هذه الأندية في أواخر القرن التاسع عشر، ولكن القليل منها فقط استمر بعد ذلك</br>
+    يعتقد معظم المؤرخين أن الأندية التي استمرت بنشاطها كانت تقع في مناطق أكثر ثراء قليلا</br>
+    حيث كان الناس لا يعملون بعد ظهر يوم السبت وكانوا قادرين على تحمل نفقات حضور المباريات
+</p>
+</div>
+<div class="photos">
+    <h1 id="gallery">المعرض</h1>
+    <img src="C:\Users\PC\Pictures\sabq_2022-11_1b6d59a7-1eb9-4be6-9e2d-92cbc071c458_EeHlpvbX0AEuJIR.jpg" width="600" height="400">
+    <img src="C:\Users\PC\Pictures\sabq_import_uploads_material-file_613ceb49f1e326e7da8b458b_613ceb42081b1.jpg" width="600" height="400"><br>
+    <img src="C:\Users\PC\Pictures\rhett-lewis-W-6grboBEIY-unsplash.jpg" width="600" height="400"> 
+    <img src="C:\Users\PC\Pictures\5QL74QSD5FNETM7HNMTWBB6JME.jpg" width="600" height="400">
+</div>
+<div class="footer">
+    <h2 id="about">نبذة</h2>
+
+    <p>من خلال هذه الصفحة يمكننا تبادل الأفكار والآراء</br>
+    حول فريق كرة القدم الذي نشجعه أو حول كرة القدم بشكل عام في وقتنا الحالي</br>
+    يمكننا أيضا التواصل من خلال النموذج لإضافة المزيد من الصور أو المقالات إلى المعرض
+</p>
+<h2>معلومات مفيدة</h2>
+<ul>
+    <li><a href="milto:info@example.com">info@example.com</a></li>
+    <li><a href="https://www.fifa.com/" target="_blank">Fifa.com</a></li>
+    <li><a href="https://www.uefa.com" target="_blank">UEFA.com</a></li>
+</ul>
+</div>
+    </body>
+</html>
